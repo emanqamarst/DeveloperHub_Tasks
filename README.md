@@ -21,23 +21,6 @@ This project recreates the provided Figma UI design with clean structure, reusab
 - CSS3
 - JavaScript (Vanilla JS)
 
-## Project Structure
-
-ecommerce-frontend-design/
-│
-├── index.html
-│
-├── css/
-│   ├── style.css
-│   └── responsive.css
-│
-├── js/
-│   └── main.js
-│
-├── assets/
-│   
-│
-└── README.md
 
 ## Features
 
@@ -90,17 +73,11 @@ The main goal of this project was:
 - Beginner-friendly code
 - Professional UI implementation
 
+
 ## Author
-
-Eman Qamar
-
-
-GitHub: @emanqamarst
-LinkedIn: Eman Qamar
-
-Frontend Internship Project
-
----
+**Eman Qamar**
+- GitHub: [@emanqamarst](https://github.com/emanqamarst)
+- LinkedIn: [Eman Qamar](https://www.linkedin.com/in/emanqamarzia/)
 
 ## Notes
 
