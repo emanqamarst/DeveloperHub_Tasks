@@ -216,7 +216,7 @@ input,select,textarea{font-family:'Inter',sans-serif}
 
 /* QUOTE BANNER */
 .quote-wrap{border-radius:10px;overflow:hidden;margin-bottom:22px;display:grid;grid-template-columns:1fr 360px;min-height:200px}
-.quote-left{position:relative;padding:38px 40px;display:flex;flex-direction:column;justify-content:center;background-image: url('assets/Image/backgrounds/Group\ 982.png');}
+.quote-left{position:relative;padding:38px 40px;display:flex;flex-direction:column;justify-content:center;background-image: url('../assets/Image/backgrounds/Group982.png');background-size: cover;}
 .quote-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.25}
 .quote-text{position:relative;z-index:2;color:#fff}
 .quote-text h2{font-size:22px;font-weight:800;margin-bottom:10px;line-height:1.35}
