@@ -73,9 +73,6 @@ The main goal of this project was:
 - Beginner-friendly code
 - Professional UI implementation
 
-## Live Demo
-[Click here to view](https://emanqamarst.github.io/DeveloperHub_Tasks/task1ecommerce-frontend-design/)
-
 ## Author
 **Eman Qamar**
 - GitHub: [@emanqamarst](https://github.com/emanqamarst)
